@@ -1,0 +1,1 @@
+export const tabelaContabil = (state) => state.tabelaContabil;

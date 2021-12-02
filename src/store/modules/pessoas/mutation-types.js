@@ -1,0 +1,1 @@
+export const SET_PESSOAS = 'SET_PESSOAS'

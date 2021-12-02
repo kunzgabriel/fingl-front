@@ -1,0 +1,1 @@
+export const SET_CONTAS = 'SET_CONTAS'

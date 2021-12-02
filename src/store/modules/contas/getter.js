@@ -1,0 +1,1 @@
+export const contas = (state) => state.contas;
